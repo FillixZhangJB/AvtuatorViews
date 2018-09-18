@@ -2,6 +2,7 @@
 spring boot admin server端demo
 基于de.codecentric对springboot actuator做的可使唤项目spring-boot-admin，server端的demo
 参考网址 http://codecentric.github.io/spring-boot-admin/2.0.2/
+
 1、版本解释
 springboot版本 1.5.16
 spring-boot-admin-server 版本 1.5.6
